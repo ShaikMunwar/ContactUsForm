@@ -26,8 +26,8 @@ btn.addEventListener('click', () => {
     }
     Email.send({
          Host: "smtp.mailtrap.io",
-        Username:"8769ef6db41f6e",
-        Password:"4278d9cb6f9c11",
+        Username:"2e56a9bd3b2041",
+        Password:"01e8741ebe7b64",
         SecureToken:"413a0eb5-6c83-46f6-8bd8-a2d2aaccbddf",
         To: "shaikmohammad9097@gmail.com",
         From: email,
