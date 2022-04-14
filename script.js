@@ -1,17 +1,4 @@
-// const btn = document.querySelector('button')
-// const inputs = documents.querySelector('form')
-// btn.addEventListener('click', ()=>{
-//     Email.send({
-//         // Host:"smtp.mailtrap.io",
-//         // Username:"2a3fe5128e5bbf",
-//         // Password:"71d011a2fe867c",
-//         SecureToken:"ed66ee04-358e-4451-9a4b-08319c8d6cc1",
-//         To:"xyz@gm.com",
-//         From:inputs.elements["email"].value,
-//         Subject:"Contact Us Query By the Customer",
-//         Body:inputs.elements["message"].value +"<br> " + inputs.elements["name"].value + inputs.elements["phone"].value
-//     }).then(msg=>alert("The email successfully sent"))
-// })
+
 const btn = document.querySelector('button')
 const inputs = document.querySelector('form')
 btn.addEventListener('click', () => {
