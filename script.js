@@ -15,7 +15,7 @@ btn.addEventListener('click', () => {
          Host: "smtp.mailtrap.io",
         Username:"c1b1b75e05e9b4",
         Password:"08deae8f9e9b07",
-        SecureToken:"4b0e96d8-54f0-43d5-b65d-d495a6c4b3f7",
+        SecureToken:"268a2482-34e7-4a7e-8396-cad64235a27f",
         To: "shaikmohammad9097@gmail.com",
         From: email,
         Subject: "Contact Us Query By the Customer",
